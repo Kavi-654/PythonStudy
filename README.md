@@ -74,21 +74,6 @@ It is designed as a **structured knowledge base + interview preparation resource
 
 ---
 
-## 📂 Repository Structure
-
-```bash
-Python-Mastery/
-│
-├── basics/
-├── functions/
-├── functional_programming/
-├── scope/
-├── advanced/
-├── problems/
-└── README.md
-```
-
----
 
 ## ▶️ How to Use
 
