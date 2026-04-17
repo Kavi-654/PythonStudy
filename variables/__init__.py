@@ -27,7 +27,7 @@ print("Outside function - global b:", b)
 
 
 # ==============================
-# 3. Modifying Global Variable 
+# 3. Modifying Global Variable (IMPORTANT 🔥)
 # ==============================
 
 c = 100   # global variable
