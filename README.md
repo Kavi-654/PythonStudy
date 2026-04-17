@@ -1,4 +1,4 @@
-# 🐍 Python Mastery Repository
+# 🐍 Python Mastery 
 
 This repository contains my **complete Python learning journey**, covering fundamental concepts to advanced topics with hands-on code examples.
 
