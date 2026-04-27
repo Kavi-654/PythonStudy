@@ -10,7 +10,7 @@ print("method 2 for the creation of lists",b);
 
 # adding the elements int the list
 a.append(8)
-print("adding the Element:",a);
+print("adding the Element:",a)
 
 #inserting the element in the list
 
