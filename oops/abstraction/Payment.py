@@ -10,6 +10,12 @@ class GPay(Payment):
         print(f"Paying ${amount} via GPay")
 
 
+
+g1=GPay()
+print(g1.pay("50.00"))
+
+
+
 class Employee:
     def __init__(self, name: str, salary: float):
         self.name = name
